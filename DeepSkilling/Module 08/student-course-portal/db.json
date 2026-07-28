@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Angular 20",
+      "code": "ANG101",
+      "credits": 4,
+      "gradeStatus": "passed"
+    },
+    {
+      "id": "3",
+      "name": "SQL Server",
+      "code": "SQL301",
+      "credits": 2,
+      "gradeStatus": "failed"
+    },
+    {
+      "id": "4",
+      "name": "Azure",
+      "code": "AZ401",
+      "credits": 3,
+      "gradeStatus": "passed"
+    },
+    {
+      "id": "5",
+      "name": "Docker",
+      "code": "DK501",
+      "credits": 1,
+      "gradeStatus": "pending"
+    },
+    {
+      "name": "React",
+      "code": "RCT601",
+      "credits": 3,
+      "gradeStatus": "pending",
+      "id": "vYKsTyvtckY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
